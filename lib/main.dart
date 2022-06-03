@@ -90,6 +90,9 @@ class _MyHomePageState extends State<MyHomePage> {
             FlutterLogo(
               size: 100,
             ),
+            FlutterLogo(
+              size: 100,
+            ),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
